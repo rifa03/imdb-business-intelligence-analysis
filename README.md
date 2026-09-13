@@ -68,9 +68,9 @@ Dashboard provides:
 
 ## Dashboard Preview
 
-![Dashboard](dashboard/Dashboard.png)
+![Dashboard](dashboard/Dashboard.jpg)
 
 
 ## Project Report
 
-[View Report](report/IMDb_Business_Intelligence_Report.pdf)
+[View Report](report/Portofolio%20Data%20Analyst%20-%20Rifa%20Sadiqa%20-%2011122270.pdf)
